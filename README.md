@@ -1,6 +1,12 @@
 # scm-assistant-bot
 for trinamix hiring test
 
+public chatbot url : https://cloud.flowiseai.com/chatbot/e8026780-fb00-48f2-b72f-a076d6c6e2bb
+
+llm and embeddings used : gemini 3.1 flash
+
+two chunk configs : as mentioned in the pdf
+
 Q1 Which Tier-3 suppliers have an active disruption flag, and what response level applies per policy?
 
 Ans :11 Tier-3 suppliers: Dravex Components India, Plataforma Metales SA, Maghreb Castworks, Helios Pack
@@ -26,3 +32,6 @@ of prior quarter volume (Policy §3.4).
 Q5 Which product category has the highest average defect rate and does it exceed the Tier-2 limit?
 ANS Mechanical Components — average 2.12% across 360 POs. Below the Tier-2 ceiling of 2.50% (Policy §3.2),
 so no breach — but approaching the limit.
+
+
+what i'd improve : to make the chatbot more human-like and context aware than its current state
